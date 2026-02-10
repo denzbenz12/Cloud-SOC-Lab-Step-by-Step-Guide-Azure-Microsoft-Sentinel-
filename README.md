@@ -5,7 +5,10 @@
 
 Sign up for an Azure account (free tier is sufficient).
 
-Confirm billing and access the Azure Portal.  
+Confirm billing and access the Azure Portal. <br>
+
+
+
 2. Create a Resource Group
 
 In the Azure Portal, create a Resource Group.
