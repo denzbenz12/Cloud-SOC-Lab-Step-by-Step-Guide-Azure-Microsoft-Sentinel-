@@ -5,7 +5,7 @@
 
 Sign up for an Azure account (free tier is sufficient).
 
-Confirm billing and access the Azure Portal. <br>
+Confirm billing and access the Azure Portal.<br>
 
 
 
