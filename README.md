@@ -9,6 +9,7 @@ Confirm billing and access the Azure Portal.
 
 
 
+
 2. Create a Resource Group
 
 In the Azure Portal, create a Resource Group.
