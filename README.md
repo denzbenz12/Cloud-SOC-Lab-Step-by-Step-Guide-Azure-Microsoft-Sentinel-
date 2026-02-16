@@ -1,10 +1,7 @@
-This Lab walks you through setting up a cloud-based home SOC lab using Microsoft Azure and Microsoft Sentinel. It shows how to build and configure a basic Security Operations Center environment in the cloud — including creating a resource group and virtual network, deploying a VM, configuring logging and log ingestion, and visualizing security events. The tutorial is aimed at helping learners get hands-on experience with SIEM concepts and real-world tooling for monitoring and detecting threats.
-
-
-
-
-
 # Cloud-SOC-Lab-Step-by-Step-Guide-Azure-Microsoft-Sentinel-
+
+
+This Lab walks you through setting up a cloud-based home SOC lab using Microsoft Azure and Microsoft Sentinel. It shows how to build and configure a basic Security Operations Center environment in the cloud — including creating a resource group and virtual network, deploying a VM, configuring logging and log ingestion, and visualizing security events. The tutorial is aimed at helping learners get hands-on experience with SIEM concepts and real-world tooling for monitoring and detecting threats.
 
 
 1. Create an Azure Account
