@@ -51,6 +51,12 @@ Set a username and password for RDP access.<br><br><br><br>
 <img width="911" height="798" alt="Screenshot 2026-02-16 183258" src="https://github.com/user-attachments/assets/a2899d2a-3cf5-4124-b7e3-c8108758a67f" />
 <img width="812" height="290" alt="Screenshot 2026-02-16 183332" src="https://github.com/user-attachments/assets/317e0dcb-f783-40f7-87d6-a52cfc9b827a" />
 <img width="902" height="725" alt="Screenshot 2026-02-16 183531" src="https://github.com/user-attachments/assets/1b8ca43b-8488-47a4-ba6f-80805ceb6b2d" />
+<img width="738" height="435" alt="Screenshot 2026-02-16 183549" src="https://github.com/user-attachments/assets/1cecfb0f-76aa-4786-85e6-f07420e3790a" />
+<img width="931" height="776" alt="Screenshot 2026-02-16 183634" src="https://github.com/user-attachments/assets/a3f4aa79-1e99-47a8-9684-5b4761cae638" />
+<img width="941" height="790" alt="Screenshot 2026-02-16 183758" src="https://github.com/user-attachments/assets/734c1e75-69c6-44a4-982b-609bfbb20aba" />
+<img width="757" height="542" alt="Screenshot 2026-02-16 183817" src="https://github.com/user-attachments/assets/07b94768-f3c0-4498-b674-05ed33b2a6dc" />
+<img width="906" height="772" alt="Screenshot 2026-02-16 183844" src="https://github.com/user-attachments/assets/a5b16663-19fc-486c-ac8b-060314813b09" />
+<img width="916" height="796" alt="Screenshot 2026-02-16 184020" src="https://github.com/user-attachments/assets/393783c7-82c0-4844-b3d9-eedd95a27dc9" />
 
 
 
