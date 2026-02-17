@@ -86,6 +86,18 @@ Disable Windows Defender Firewall.
 This ensures logs capture more visible activity.
 
 ⚠️ This is for lab learning only, not production use.<br><br><br><br>
+<img width="1546" height="515" alt="Screenshot 2026-02-16 184814" src="https://github.com/user-attachments/assets/9900e0aa-b055-4aa8-a0e1-459fb81d8683" />
+<img width="1546" height="515" alt="Screenshot 2026-02-16 184821" src="https://github.com/user-attachments/assets/f14ed955-f398-4a93-b0fa-0ea7d2bb8b22" />
+<img width="693" height="783" alt="Screenshot 2026-02-16 185037" src="https://github.com/user-attachments/assets/aa6254ed-abb6-4ed3-b38e-f9fee2200ed2" />
+<img width="435" height="258" alt="Screenshot 2026-02-16 185138" src="https://github.com/user-attachments/assets/9de3871d-8854-4b7e-9dd8-db49480b8035" />
+<img width="447" height="261" alt="Screenshot 2026-02-16 185259" src="https://github.com/user-attachments/assets/b0fac199-84c1-438a-bcd1-9a730d8da716" />
+<img width="394" height="220" alt="Screenshot 2026-02-16 185332" src="https://github.com/user-attachments/assets/307650a2-4670-466b-b776-f629edfac2da" />
+<img width="797" height="622" alt="Screenshot 2026-02-16 185453" src="https://github.com/user-attachments/assets/38fd646b-3fda-4ef5-9621-52e58e2a48b4" />
+<img width="1276" height="952" alt="Screenshot 2026-02-16 185553" src="https://github.com/user-attachments/assets/540ce1f8-c2ee-4896-9b45-95badb61345a" />
+<img width="675" height="602" alt="Screenshot 2026-02-16 185636" src="https://github.com/user-attachments/assets/b0e42d58-73f3-400a-b16e-bc1bc45bdfba" />
+<img width="484" height="300" alt="Screenshot 2026-02-16 185704" src="https://github.com/user-attachments/assets/6905a2ac-9f2d-4458-b9de-bd317d2b9b3c" />
+<img width="545" height="296" alt="Screenshot 2026-02-16 185721" src="https://github.com/user-attachments/assets/4424394c-e75c-4699-9198-749f4971c9a8" />
+<img width="548" height="566" alt="Screenshot 2026-02-16 185738" src="https://github.com/user-attachments/assets/9cab564f-7e43-4ee8-bba6-41715f8b527c" />
 
 
 
