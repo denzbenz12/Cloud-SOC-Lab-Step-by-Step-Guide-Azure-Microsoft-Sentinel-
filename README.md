@@ -69,6 +69,11 @@ Allow inbound traffic on:
 RDP (Port 3389) from any source.
 
 This makes the VM intentionally vulnerable to attract brute-force attempts.<br><br><br><br>
+<img width="884" height="658" alt="Screenshot 2026-02-16 184156" src="https://github.com/user-attachments/assets/5de8c5d6-2eb9-4a64-b3db-f0cf17c298d2" />
+<img width="1570" height="671" alt="Screenshot 2026-02-16 184328" src="https://github.com/user-attachments/assets/c3495f6c-5ebe-41ec-bc60-1a55eee269c0" />
+<img width="578" height="591" alt="Screenshot 2026-02-16 184414" src="https://github.com/user-attachments/assets/459fa20c-dc5a-4c11-84ba-1540f932b894" />
+<img width="1564" height="798" alt="Screenshot 2026-02-16 184501" src="https://github.com/user-attachments/assets/31563d81-58c4-45a9-b755-20c6a8030bde" />
+<img width="576" height="697" alt="Screenshot 2026-02-16 184558" src="https://github.com/user-attachments/assets/c5492ff1-7f1b-48e5-86a3-a921dfb94f97" />
 
 
 
