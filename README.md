@@ -13,6 +13,7 @@ Reference Josh Madakor's Guide: https://www.youtube.com/watch?v=g5JL2RIbThM&t=11
 Sign up for an Azure account (free tier is sufficient).
 
 Confirm billing and access the Azure Portal.<br><br><br><br>
+<img width="1541" height="901" alt="Screenshot 2026-02-16 181211" src="https://github.com/user-attachments/assets/de51010b-84c0-445d-b037-b6be2be4c7ca" />
 
 
 
@@ -23,10 +24,14 @@ In the Azure Portal, create a Resource Group.
 Choose a region close to your location.
 
 This will contain all lab resources.<br><br><br><br>
+<img width="993" height="316" alt="Screenshot 2026-02-16 181352" src="https://github.com/user-attachments/assets/17ecdc35-a866-4d1b-a24f-b107b8d2112e" />
+<img width="804" height="454" alt="Screenshot 2026-02-16 181522" src="https://github.com/user-attachments/assets/362bb191-d0ee-42aa-a9f6-f4b9cf7d3d2b" />
+<img width="737" height="856" alt="Screenshot 2026-02-16 181620" src="https://github.com/user-attachments/assets/3a02d347-277c-4202-b704-36fec2a097ed" />
+<img width="569" height="830" alt="Screenshot 2026-02-16 181716" src="https://github.com/user-attachments/assets/ab833972-0a76-411a-8cb1-5e61be65aa19" />
 
 
 
-3. Deploy a Virtual Machine
+3. Create a Virtual Network and Deploy a Virtual Machine
 
 Create a Windows Virtual Machine.
 
@@ -35,6 +40,17 @@ Assign it to the resource group.
 Enable public IP access.
 
 Set a username and password for RDP access.<br><br><br><br>
+<img width="934" height="681" alt="Screenshot 2026-02-16 182447" src="https://github.com/user-attachments/assets/71bcd940-430b-4540-9e62-d62852880151" />
+<img width="712" height="646" alt="Screenshot 2026-02-16 182613" src="https://github.com/user-attachments/assets/cf63c04d-e1ac-4874-9b88-d984039d0b07" />
+<img width="780" height="805" alt="Screenshot 2026-02-16 182701" src="https://github.com/user-attachments/assets/12099fc3-0b9e-425d-82a6-77f5348a4841" />
+<img width="728" height="805" alt="Screenshot 2026-02-16 182841" src="https://github.com/user-attachments/assets/9459ee67-f76a-40e4-aa7c-74448ae6b8c7" />
+<img width="728" height="805" alt="Screenshot 2026-02-16 182848" src="https://github.com/user-attachments/assets/3f846abb-02c3-4389-a956-cb09242e2695" />
+<img width="531" height="812" alt="Screenshot 2026-02-16 183000" src="https://github.com/user-attachments/assets/fc78c225-1f25-4e1d-b887-2e2574d07236" />
+<img width="778" height="511" alt="Screenshot 2026-02-16 183109" src="https://github.com/user-attachments/assets/21e6fb41-ab58-4cb1-89de-fb6d3642672b" />
+<img width="711" height="411" alt="Screenshot 2026-02-16 183134" src="https://github.com/user-attachments/assets/fe6d2c10-56d9-41f2-b7b6-f25de124e381" />
+<img width="911" height="798" alt="Screenshot 2026-02-16 183258" src="https://github.com/user-attachments/assets/a2899d2a-3cf5-4124-b7e3-c8108758a67f" />
+<img width="812" height="290" alt="Screenshot 2026-02-16 183332" src="https://github.com/user-attachments/assets/317e0dcb-f783-40f7-87d6-a52cfc9b827a" />
+<img width="902" height="725" alt="Screenshot 2026-02-16 183531" src="https://github.com/user-attachments/assets/1b8ca43b-8488-47a4-ba6f-80805ceb6b2d" />
 
 
 
