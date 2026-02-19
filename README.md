@@ -136,6 +136,13 @@ Sentinel now acts as the SIEM for the lab.<br><br><br><br>
 <img width="1107" height="340" alt="Screenshot 2026-02-19 160626" src="https://github.com/user-attachments/assets/d964fcc8-b699-4da0-81f0-5998a06073c5" />
 <img width="664" height="395" alt="Screenshot 2026-02-19 160640" src="https://github.com/user-attachments/assets/cea8b11c-c8c1-4f43-82fc-0ca8dc3bd28e" />
 <img width="892" height="804" alt="Screenshot 2026-02-19 160714" src="https://github.com/user-attachments/assets/6fdae323-b7f6-4120-b1ac-acf4fbc2c2ea" />
+<img width="1429" height="600" alt="Screenshot 2026-02-19 160821" src="https://github.com/user-attachments/assets/1f96b48c-ecb6-481d-acb3-91fb9cab5757" />
+<img width="1231" height="594" alt="Screenshot 2026-02-19 160947" src="https://github.com/user-attachments/assets/add85caf-7712-4fee-b7b7-11df128d7bcb" />
+<img width="1189" height="620" alt="Screenshot 2026-02-19 161020" src="https://github.com/user-attachments/assets/b3928e64-0ea6-4b11-9f28-eb735a089a8c" />
+<img width="1189" height="620" alt="Screenshot 2026-02-19 161027" src="https://github.com/user-attachments/assets/1ca7e607-b5a3-41a0-a768-64582b792ee3" />
+<img width="1275" height="610" alt="Screenshot 2026-02-19 161112" src="https://github.com/user-attachments/assets/6f22c80a-e3c7-4d31-93fb-0a593750b5d7" />
+<img width="1234" height="418" alt="Screenshot 2026-02-19 161209" src="https://github.com/user-attachments/assets/d1e043b6-f3fe-4cb9-84cb-f9072a5b6da0" />
+<img width="1189" height="453" alt="Screenshot 2026-02-19 161338" src="https://github.com/user-attachments/assets/dec0d159-0148-4207-a088-cf49e9202cbb" />
 
 
 
@@ -146,6 +153,7 @@ In Sentinel, enable the Windows Security Events data connector.
 Configure it to collect All Security Events.
 
 Verify logs begin appearing in the workspace.<br><br><br><br>
+<img width="959" height="570" alt="Screenshot 2026-02-19 161445" src="https://github.com/user-attachments/assets/75f3abf8-7b4b-4214-89af-967007bcf10d" />
 
 
 
