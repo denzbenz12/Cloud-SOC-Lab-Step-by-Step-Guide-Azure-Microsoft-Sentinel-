@@ -143,13 +143,6 @@ Sentinel now acts as the SIEM for the lab.<br><br><br><br>
 <img width="1275" height="610" alt="Screenshot 2026-02-19 161112" src="https://github.com/user-attachments/assets/6f22c80a-e3c7-4d31-93fb-0a593750b5d7" />
 <img width="1234" height="418" alt="Screenshot 2026-02-19 161209" src="https://github.com/user-attachments/assets/d1e043b6-f3fe-4cb9-84cb-f9072a5b6da0" />
 <img width="1189" height="453" alt="Screenshot 2026-02-19 161338" src="https://github.com/user-attachments/assets/dec0d159-0148-4207-a088-cf49e9202cbb" />
-<img width="1429" height="600" alt="Screenshot 2026-02-19 160821" src="https://github.com/user-attachments/assets/25148eb3-aab1-4c6e-8754-4a20dd5a41bb" />
-<img width="1231" height="594" alt="Screenshot 2026-02-19 160947" src="https://github.com/user-attachments/assets/76982b14-cd6d-4955-bcd1-63952eb4b850" />
-<img width="1189" height="620" alt="Screenshot 2026-02-19 161020" src="https://github.com/user-attachments/assets/9200ca40-d7c2-4156-9b66-e7747ff9cf1e" />
-<img width="1189" height="620" alt="Screenshot 2026-02-19 161027" src="https://github.com/user-attachments/assets/aa55f6a9-c3a1-42a1-ab63-277a62199fae" />
-<img width="1275" height="610" alt="Screenshot 2026-02-19 161112" src="https://github.com/user-attachments/assets/d77e530a-1f11-449e-b788-21631bcff5c1" />
-<img width="1234" height="418" alt="Screenshot 2026-02-19 161209" src="https://github.com/user-attachments/assets/a304ab21-31d4-4f04-ab3f-c91092d31444" />
-<img width="1189" height="453" alt="Screenshot 2026-02-19 161338" src="https://github.com/user-attachments/assets/c2c6cd2f-bc1d-4bdd-b932-0f56e7dfb8d8" />
 
 
 
