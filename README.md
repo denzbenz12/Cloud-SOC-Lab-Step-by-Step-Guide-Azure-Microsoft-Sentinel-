@@ -153,6 +153,14 @@ In Sentinel, enable the Windows Security Events data connector.
 Configure it to collect All Security Events.
 
 Verify logs begin appearing in the workspace.<br><br><br><br>
+<img width="959" height="570" alt="Screenshot 2026-02-19 161445" src="https://github.com/user-attachments/assets/409afdcd-fdfb-43b1-9b27-5f1c33c04de3" />
+<img width="1132" height="666" alt="Screenshot 2026-02-19 161522" src="https://github.com/user-attachments/assets/f38c4d3a-acef-4661-baa2-224a5471eb8a" />
+<img width="781" height="804" alt="Screenshot 2026-02-19 161635" src="https://github.com/user-attachments/assets/64cfbf48-cf67-45d0-b533-9eec12d50f9c" />
+<img width="866" height="807" alt="Screenshot 2026-02-19 161710" src="https://github.com/user-attachments/assets/74391e3d-05ce-40eb-b1c6-7fe395faa390" />
+<img width="609" height="815" alt="Screenshot 2026-02-19 161816" src="https://github.com/user-attachments/assets/3a3d2b0b-5deb-4dc6-b642-4129039cfefc" />
+<img width="585" height="809" alt="Screenshot 2026-02-19 161844" src="https://github.com/user-attachments/assets/d1599a28-174b-4c1f-9f9a-5671158d1c50" />
+<img width="1563" height="628" alt="Screenshot 2026-02-19 162029" src="https://github.com/user-attachments/assets/7f482dce-e219-4c04-a709-7459c24fde19" />
+<img width="1565" height="539" alt="Screenshot 2026-02-19 162249" src="https://github.com/user-attachments/assets/ee013f00-5b7b-4712-8fc2-78e663929a0b" />
 
 
 
@@ -163,6 +171,7 @@ Leave the VM exposed for several hours.
 Allow real-world attackers to attempt RDP logins.
 
 Failed login attempts will populate Sentinel logs.<br><br><br><br>
+<img width="1558" height="885" alt="Screenshot 2026-02-19 162401" src="https://github.com/user-attachments/assets/f2115d40-8e74-4bfa-af0f-6fdc6f371fc5" />
 
 
 
