@@ -106,6 +106,9 @@ This ensures logs capture more visible activity.
 On the VM, open Event Viewer.
 
 Confirm Security logs are being generated (especially failed login attempts).<br><br><br><br>
+<img width="518" height="437" alt="Screenshot 2026-02-19 160044" src="https://github.com/user-attachments/assets/43a4bf9d-dd89-4b22-81a7-f92641c1e1fd" />
+<img width="341" height="229" alt="Screenshot 2026-02-19 160101" src="https://github.com/user-attachments/assets/c4998331-9927-4211-b8b5-a397c1a46f29" />
+<img width="905" height="476" alt="Screenshot 2026-02-19 160208" src="https://github.com/user-attachments/assets/767ab98a-4742-47c6-90dc-84c4709992fd" />
 
 
 
@@ -116,6 +119,10 @@ In Azure, create a Log Analytics Workspace.
 Associate it with the same resource group.
 
 This workspace will store all security logs.<br><br><br><br>
+<img width="1128" height="338" alt="Screenshot 2026-02-19 160321" src="https://github.com/user-attachments/assets/50e25ea0-b0e5-4290-a551-7a94a144cc4e" />
+<img width="810" height="509" alt="Screenshot 2026-02-19 160340" src="https://github.com/user-attachments/assets/8618afe5-b216-415b-961a-69bfc6b605ec" />
+<img width="729" height="814" alt="Screenshot 2026-02-19 160430" src="https://github.com/user-attachments/assets/7be19af0-5257-43f6-9ab9-1755027ad488" />
+<img width="773" height="806" alt="Screenshot 2026-02-19 160531" src="https://github.com/user-attachments/assets/8d5f3611-003b-4d2a-af9c-fd25fee7d9ca" />
 
 
 
@@ -126,6 +133,9 @@ Open Microsoft Sentinel in Azure.
 Attach it to the Log Analytics Workspace.
 
 Sentinel now acts as the SIEM for the lab.<br><br><br><br>
+<img width="1107" height="340" alt="Screenshot 2026-02-19 160626" src="https://github.com/user-attachments/assets/d964fcc8-b699-4da0-81f0-5998a06073c5" />
+<img width="664" height="395" alt="Screenshot 2026-02-19 160640" src="https://github.com/user-attachments/assets/cea8b11c-c8c1-4f43-82fc-0ca8dc3bd28e" />
+<img width="892" height="804" alt="Screenshot 2026-02-19 160714" src="https://github.com/user-attachments/assets/6fdae323-b7f6-4120-b1ac-acf4fbc2c2ea" />
 
 
 
