@@ -226,19 +226,3 @@ Frequency of login attempts
 Confirm data renders correctly on the map.<br><br><br><br>
 
 
-
-15. Review and Clean Up
-
-Analyze attack patterns and geographic trends.
-
-Stop or delete resources to avoid ongoing Azure costs.
-
-Outcome
-
-Built a cloud-based SOC lab
-
-Collected real attack telemetry
-
-Used KQL for detection
-
-Visualized attacker locations in Microsoft Sentinel
