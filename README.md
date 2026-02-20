@@ -215,7 +215,7 @@ Validate successful enrichment.<br><br><br><br>
 
 14. Create a Sentinel Map Visualization
 
-Build a Sentinel workbook.
+Build a Sentinel workbook by pasting the .json text into the workbook.
 
 Create a map visualization showing:
 
