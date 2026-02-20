@@ -188,6 +188,9 @@ Source IP addresses
 Event IDs (e.g., 4625)
 
 Confirm real attack data is visible.<br><br><br><br>
+<img width="1491" height="772" alt="Screenshot 2026-02-19 184827" src="https://github.com/user-attachments/assets/15433e90-55c1-4361-b8ee-030ed0f20bbe" />
+<img width="1506" height="749" alt="Screenshot 2026-02-19 184920" src="https://github.com/user-attachments/assets/93b6e81c-5b48-4f83-b7d9-5b706726036d" />
+<img width="1530" height="784" alt="Screenshot 2026-02-19 185038" src="https://github.com/user-attachments/assets/90f4837d-3143-4b48-a75e-1180d3aee8ca" />
 
 
 
@@ -198,6 +201,12 @@ Download a public IP geolocation CSV file.
 Upload it into Sentinel as a Watchlist.
 
 This allows IP-to-country correlation.<br><br><br><br>
+<img width="563" height="908" alt="Screenshot 2026-02-19 185439" src="https://github.com/user-attachments/assets/cb9e11c8-d7b0-412f-aba1-a68fff08f784" />
+<img width="1572" height="789" alt="Screenshot 2026-02-19 185617" src="https://github.com/user-attachments/assets/968ec3eb-e234-4f49-a498-d655d6dc3ade" />
+<img width="795" height="820" alt="Screenshot 2026-02-19 185730" src="https://github.com/user-attachments/assets/be3bab70-3fc4-4046-a792-6450298073c3" />
+<img width="1569" height="810" alt="Screenshot 2026-02-19 185810" src="https://github.com/user-attachments/assets/085edfe2-ff5f-44b6-a624-bfcf7cea3c7f" />
+<img width="1564" height="809" alt="Screenshot 2026-02-19 185923" src="https://github.com/user-attachments/assets/ab326d71-1ece-4e4b-acd8-dd4dc44d5f93" />
+<img width="1567" height="818" alt="Screenshot 2026-02-19 190051" src="https://github.com/user-attachments/assets/c7248b91-a223-4b7d-8b07-54bff30c08ea" />
 
 
 
@@ -210,6 +219,9 @@ Match attacker IPs with the watchlist
 Identify country of origin
 
 Validate successful enrichment.<br><br><br><br>
+<img width="1564" height="804" alt="Screenshot 2026-02-19 190224" src="https://github.com/user-attachments/assets/beed07ec-0f16-4664-aa44-a3a591a62df3" />
+<img width="1568" height="377" alt="Screenshot 2026-02-19 190327" src="https://github.com/user-attachments/assets/90f7719b-9245-4c4e-8088-dbb845848c61" />
+<img width="1535" height="790" alt="Screenshot 2026-02-19 190410" src="https://github.com/user-attachments/assets/292c31e0-7e7f-4c66-a90c-76ccee91d28b" />
 
 
 
@@ -224,5 +236,18 @@ Attacker source countries
 Frequency of login attempts
 
 Confirm data renders correctly on the map.<br><br><br><br>
+<img width="1354" height="515" alt="Screenshot 2026-02-19 190548" src="https://github.com/user-attachments/assets/2d8b104a-2d10-4152-8dba-a908ee6e880c" />
+<img width="1278" height="764" alt="Screenshot 2026-02-19 190617" src="https://github.com/user-attachments/assets/8af5de4d-2f9c-4f1e-8446-272b5b32d6d7" />
+<img width="974" height="491" alt="Screenshot 2026-02-19 190650" src="https://github.com/user-attachments/assets/70bd1188-527b-4cf0-b1fb-46513faa2ac4" />
+<img width="1482" height="575" alt="Screenshot 2026-02-19 190717" src="https://github.com/user-attachments/assets/71d6c12a-a1ac-44af-bd47-935d2bdcb5de" />
+<img width="1568" height="730" alt="Screenshot 2026-02-19 190758" src="https://github.com/user-attachments/assets/8bfa3736-9003-4507-845e-e643e3dfe811" />
+<img width="1549" height="478" alt="Screenshot 2026-02-19 190836" src="https://github.com/user-attachments/assets/2e9f2782-fd76-4b96-a231-3fd4beaecaf1" />
+<img width="1702" height="865" alt="Screenshot 2026-02-19 190935" src="https://github.com/user-attachments/assets/67cd5b03-dea5-4e4d-a025-25e3174f9b9f" />
+<img width="745" height="641" alt="Screenshot 2026-02-19 191029" src="https://github.com/user-attachments/assets/b9bb72d6-7bf7-4d88-b261-830ae4933019" />
+<img width="823" height="779" alt="Screenshot 2026-02-19 191111" src="https://github.com/user-attachments/assets/30d8b328-eb9c-47ef-b9a3-35f65347c231" />
+<img width="803" height="773" alt="Screenshot 2026-02-19 191146" src="https://github.com/user-attachments/assets/b44ff119-d142-4fc9-9aad-a0cb5bc0686d" />
+<img width="1556" height="812" alt="Screenshot 2026-02-19 191241" src="https://github.com/user-attachments/assets/08c522bf-ce7f-4e2f-b38e-447cb803b569" />
+<img width="1542" height="765" alt="Screenshot 2026-02-19 191546" src="https://github.com/user-attachments/assets/e467be27-b3de-461f-a23c-3aac50829110" />
+<img width="1579" height="766" alt="Screenshot 2026-02-19 191630" src="https://github.com/user-attachments/assets/5b5701ef-55a4-4f8c-a741-47d9dbf21ed0" />
 
 
